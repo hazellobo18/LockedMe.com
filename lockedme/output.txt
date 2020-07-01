@@ -1,0 +1,244 @@
+/*Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Ram>cd Desktop/LockedMe.com
+
+C:\Users\Ram\Desktop\LockedMe.com>javac lockedme/Menu.java
+
+C:\Users\Ram\Desktop\LockedMe.com>java lockedme.Menu
+-----------------------
+Welcome to LockedMe.com
+-----------------------
+
+ Developer By-
+        Hazel Lobo
+        BNP Paribas-Batch 2
+
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+1
+Enter the folder path/name you want to retrieve
+lockedme
+Sorted Order
+--------------------------------
+Locker
+Menu.class
+Menu.java
+Operator.class
+Operator.java
+RetrieveFiles.class
+RetrieveFiles.java
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+1
+Enter the folder path/name you want to retrieve
+C:Users\Ram\Desktop\Locker
+C:\Users\Ram\Desktop\LockedMe.com\Users\Ram\Desktop\Locker is not a directory
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+3
+Exiting Application....
+
+C:\Users\Ram\Desktop\LockedMe.com>javac lockedme/Menu.java
+
+C:\Users\Ram\Desktop\LockedMe.com>java lockedme.Menu
+-----------------------
+Welcome to LockedMe.com
+-----------------------
+
+ Developer By-
+        Hazel Lobo
+        BNP Paribas-Batch 2
+
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+1
+Enter the folder path/name you want to retrieve
+lockedme
+Sorted Order
+--------------------------------
+Locker
+Menu.class
+Menu.java
+Operator.class
+Operator.java
+RetrieveFiles.class
+RetrieveFiles.java
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+1
+Enter the folder path/name you want to retrieve
+C:\Users\Ram\Desktop\Locker
+Sorted Order
+--------------------------------
+add.txt
+example.txt
+hazel.txt
+map.txt
+sample.txt
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+1
+Enter the folder path/name you want to retrieve
+Folder
+C:\Users\Ram\Desktop\LockedMe.com\Folder is not a directory
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+2
+Select choice:
+ 1. Add file
+ 2. Delete file
+ 3. Search File
+ 4. Navigate to Main Menu
+
+4
+Navigating Back
+
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+1
+Enter the folder path/name you want to retrieve
+lockedme
+Sorted Order
+--------------------------------
+Menu.class
+Menu.java
+Operator.class
+Operator.java
+RetrieveFiles.class
+RetrieveFiles.java
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+1
+Enter the folder path/name you want to retrieve
+C:\Users\Ram\Desktop\Locker
+Sorted Order
+--------------------------------
+add.txt
+example.txt
+hazel.txt
+map.txt
+sample.txt
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+1
+Enter the folder path/name you want to retrieve
+\JavaPractice
+C:\JavaPractice is not a directory
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+2
+Select choice:
+ 1. Add file
+ 2. Delete file
+ 3. Search File
+ 4. Navigate to Main Menu
+
+1
+Enter filename you want to add
+add.txt
+File has been created successfully
+Select choice:
+ 1. Add file
+ 2. Delete file
+ 3. Search File
+ 4. Navigate to Main Menu
+
+1
+Enter filename you want to add
+add.txt
+add.txt already exists at this location
+Select choice:
+ 1. Add file
+ 2. Delete file
+ 3. Search File
+ 4. Navigate to Main Menu
+
+2
+Enter filename you want to delete
+touch.txt
+File not found
+Select choice:
+ 1. Add file
+ 2. Delete file
+ 3. Search File
+ 4. Navigate to Main Menu
+
+2
+Enter filename you want to delete
+file.txt
+file.txt deleted successfully
+Select choice:
+ 1. Add file
+ 2. Delete file
+ 3. Search File
+ 4. Navigate to Main Menu
+
+3
+Enter filename you want to search
+lockedme
+Filename: lockedme exists at location C:\Users\Ram\Desktop\LockedMe.com\lockedme
+
+Select choice:
+ 1. Add file
+ 2. Delete file
+ 3. Search File
+ 4. Navigate to Main Menu
+
+3
+Enter filename you want to search
+addition
+Filename: addition does not exists.
+Select choice:
+ 1. Add file
+ 2. Delete file
+ 3. Search File
+ 4. Navigate to Main Menu
+
+4
+Navigating Back
+
+Enter the choice
+ 1.Retrieving the file names in an ascending order
+ 2.More Operations
+ 3.Close the application
+
+3
+Exiting Application....
+
+C:\Users\Ram\Desktop\LockedMe.com>
+
+*/
